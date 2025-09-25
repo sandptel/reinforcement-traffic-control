@@ -1,4 +1,4 @@
-<h1 align="center"> Traffic Light Optimization With Reinforcement Learning </h1>
+<h1 align="center"> Traffic Control and Optimization With Reinforcement Learning </h1>
 
 This project offers a framework for optimizing traffic flow at complex intersections using a Deep Q-Learning Reinforcement Learning agent. By intelligently selecting traffic light phases, the agent aims to maximize traffic efficiency.
 
